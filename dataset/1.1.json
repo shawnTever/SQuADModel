@@ -1,0 +1,384 @@
+{
+  "vision": 1.01,
+  "data": [
+    {
+      "title": "duty holders",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who has health and safety duties when removing asbestos?",
+              "id": 1,
+              "answers": [
+                {
+                  "text": "persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers",
+                  "answer_start": 147
+                },
+                {
+                  "text": "persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers",
+                  "answer_start": 147
+                },
+                {
+                  "text": "persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers",
+                  "answer_start": 147
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who also have duties under the WHS Act?",
+              "id": 2,
+              "answers": [
+                {
+                  "text": "Workers and other persons at the workplace",
+                  "answer_start": 313
+                },
+                {
+                  "text": "Workers and other persons",
+                  "answer_start": 313
+                },
+                {
+                  "text": "Workers and other persons at the workplace",
+                  "answer_start": 313
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can a person have more than one duty at the same time?",
+              "id": 3,
+              "answers": [
+                {
+                  "text": "A person can have more than one duty and more than one person can have the same duty at the same time.",
+                  "answer_start": 483
+                },
+                {
+                  "text": "A person can have more than one duty and more than one person can have the same duty at the same time.",
+                  "answer_start": 483
+                },
+                {
+                  "text": "A person can have more than one duty and more than one person can have the same duty at the same time.",
+                  "answer_start": 483
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "a number of",
+                  "answer_start": 10
+                }
+              ],
+              "question": "How many duty holders have a role in managing risks associated with removal of asbestos and ACM at the workplace",
+              "id": 4,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "There are a number of duty holders who have a role in managing risks associated with removal of asbestos and ACM at the workplace. These include:  persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers. Workers and other persons at the workplace also have duties under the WHS Act, such as the duty to take reasonable care for their own health and safety at the workplace. A person can have more than one duty and more than one person can have the same duty at the same time. Early consultation and identification of risks can allow for more options to eliminate or minimise risks and reduce the associated costs. "
+        },
+        {
+          "qas": [
+            {
+              "question": "who have a duty to consult workers about work health and safety?",
+              "id": 5,
+              "answers": [
+                {
+                  "text": "PCBUs",
+                  "answer_start": 438
+                },
+                {
+                  "text": "PCBUs",
+                  "answer_start": 438
+                },
+                {
+                  "text": "PCBUs",
+                  "answer_start": 438
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the requirements for PCBUs in the WHS Regulations?",
+              "id": 6,
+              "answers": [
+                {
+                  "text": "manage the risks of hazardous chemicals, airborne contaminants and plant, as well as other hazards associated with asbestos",
+                  "answer_start": 244
+                },
+                {
+                  "text": "manage the risks of hazardous chemicals, airborne contaminants and plant",
+                  "answer_start": 244
+                },
+                {
+                  "text": "manage the risks of hazardous chemicals, airborne contaminants and plant, as well as other hazards associated with asbestos",
+                  "answer_start": 244
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What must PCBU ensure when exposed to airborne asbestos at the workplace?",
+              "id": 7,
+              "answers": [
+                {
+                  "text": "so far as is reasonably practicable that exposure of people at the workplace to airborne asbestos is eliminated",
+                  "answer_start": 690
+                },
+                {
+                  "text": "exposure of people at the workplace to airborne asbestos is eliminated",
+                  "answer_start": 731
+                },
+                {
+                  "text": "exposure standard for asbestos is not exceeded at the workplace",
+                  "answer_start": 939
+                },
+                {
+                  "text": "exposure standard for asbestos is not exceeded",
+                  "answer_start": 939
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "in the following chapters of this Code",
+                  "answer_start": 1189
+                }
+              ],
+              "question": "What are the specific obligations for a number of duty holders in relation to safely removing asbestos in the WHS Regulations?",
+              "id": 8,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Person conducting a business or undertaking. WHS Act section 19. Primary duty of care. A PCBU must eliminate risks arising from asbestos removal, or if that is not reasonably practicable, minimise the risks so far as is reasonably practicable. The WHS Regulations include more specific requirements for PCBUs to manage the risks of hazardous chemicals, airborne contaminants and plant, as well as other hazards associated with asbestos.  PCBUs have a duty to consult workers about work health and safety and may also have duties to consult, cooperate and coordinate with other duty holders. WHS Regulation section 420. Exposure to airborne asbestos at workplace. The PCBU must also ensure so far as is reasonably practicable that exposure of people at the workplace to airborne asbestos is eliminated. If this is not reasonably practicable, the exposure must be minimised so far as is reasonably practicable. The PCBU must also ensure the exposure standard for asbestos is not exceeded at the workplace. WHS Regulations Chapter 8. Asbestos. The WHS Regulations include specific obligations for a number of duty holders in relation to safely removing asbestos. These duties are described in the following chapters of this Code."
+        },
+        {
+          "qas": [
+            {
+              "question": "What is the duty of company directors?",
+              "id": 9,
+              "answers": [
+                {
+                  "text": "duty to exercise due diligence to ensure that the business or undertaking complies with the WHS Act and WHS Regulations",
+                  "answer_start": 96
+                },
+                {
+                  "text": "exercise due diligence to ensure that the business or undertaking complies with the WHS Act and WHS Regulations",
+                  "answer_start": 103
+                },
+                {
+                  "text": "ensure that the business or undertaking complies with the WHS Act and WHS Regulations",
+                  "answer_start": 130
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the duty of workers?",
+              "id": 10,
+              "answers": [
+                {
+                  "text": "take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons",
+                  "answer_start": 702
+                },
+                {
+                  "text": "take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons",
+                  "answer_start": 702
+                },
+                {
+                  "text": "take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons",
+                  "answer_start": 702
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can find further information about officers and their duties?",
+              "id": 11,
+              "answers": [
+                {
+                  "text": "Interpretive Guideline: The health and safety duty of an officer under section 27",
+                  "answer_start": 547
+                },
+                {
+                  "text": "Interpretive Guideline: The health and safety duty of an officer",
+                  "answer_start": 547
+                },
+                {
+                  "text": "Interpretive Guideline: The health and safety duty of an officer under section 27",
+                  "answer_start": 547
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "the business or undertaking has and uses appropriate resources and processes to eliminate or minimise risks",
+                  "answer_start": 270
+                }
+              ],
+              "question": "What are reasonable steps for officers?",
+              "id": 12,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Officers. WHS Act section 27. Duty of officers. Officers, for example company directors, have a duty to exercise due diligence to ensure that the business or undertaking complies with the WHS Act and WHS Regulations. This includes taking reasonable steps to ensure that the business or undertaking has and uses appropriate resources and processes to eliminate or minimise risks that arise from asbestos removal work carried out as part of the business or undertaking.  Further information on who is an officer and their duties is available in the Interpretive Guideline: The health and safety duty of an officer under section 27. Workers WHS Act section 28 Duties of workers Workers have a duty to take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons. Workers must comply with reasonable instructions, as far as they are reasonably able, and cooperate with reasonable health and safety policies or procedures that have been notified to workers.  "
+        },
+        {
+          "qas": [
+            {
+              "question": "What is the duty of visitors?",
+              "id": 13,
+              "answers": [
+                {
+                  "text": "take reasonable care for their own health safety",
+                  "answer_start": 146
+                },
+                {
+                  "text": "own health safety",
+                  "answer_start": 177
+                },
+                {
+                  "text": "take reasonable care for their own health safety",
+                  "answer_start": 146
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why PCBU has the duty to consult?",
+              "id": 14,
+              "answers": [
+                {
+                  "text": "based on the recognition that worker input and participation improves decision-making about health and safety matters and assists in reducing work-related injuries and disease",
+                  "answer_start": 641
+                },
+                {
+                  "text": "improves decision-making about health and safety matters and assists in reducing work-related injuries and disease",
+                  "answer_start": 702
+                },
+                {
+                  "text": "based on the recognition that worker input and participation improves decision-making about health and safety matters and assists in reducing work-related injuries and disease",
+                  "answer_start": 641
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What does WHS Act require PCBU do?",
+              "id": 15,
+              "answers": [
+                {
+                  "text": "consult, cooperate and coordinate activities with all other persons",
+                  "answer_start": 1483
+                },
+                {
+                  "text": "consult, cooperate and coordinate activities with all other persons who have a work health and safety duty in relation to the same matter",
+                  "answer_start": 1483
+                },
+                {
+                  "text": "consult, cooperate and coordinate activities",
+                  "answer_start": 1483
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "workers ",
+                  "answer_start": 475
+                }
+              ],
+              "question": "Who is directly affected by a health and safety matter?",
+              "id": 16,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Other persons at the workplace WHS Act section 29 Duties of other persons at the workplace Other persons at the workplace, like visitors, must take reasonable care for their own health safety. They must comply, so far as they are reasonably able, with reasonable instructions given by the PCBU to allow that person to comply with the WHS Act. \nConsulting workers \nWHS Act section 47 \nDuty to consult workers \nA PCBU must consult, so far as is reasonably practicable, with workers who carry out work for the business or undertaking and who are (or are likely to be) directly affected by a health and safety matter. This duty to consult is based on the recognition that worker input and participation improves decision-making about health and safety matters and assists in reducing work-related injuries and disease. The broad is reasonably practicable, with contractors and sub-contractors and their employees, on-hire workers, outworkers, apprentices, trainees, work experience students, volunteers and other people who are working for the PCBU and who are, or are likely to be, directly affected by a health and safety matter. Workers are entitled to take part in consultations and to be represented in consultations by a health and safety representative who has been elected to represent their work group. \nConsulting, cooperating and coordinating activities with other duty holders \nWHS Act section 46 \nDuty to consult with other duty holders \nThe WHS Act requires that a PCBU consult, cooperate and coordinate activities with all other persons who have a work health and safety duty in relation to the same matter, so far as is reasonably practicable.  There is often more than one business or undertaking involved when asbestos-related work is being carried out, who may each have responsibility for the same health and safety matters, either because they are involved in the same activities or share the same workplace. In these situations, each duty holder should exchange information to find out who is doing what and work together in a cooperative and coordinated way so risks are eliminated or minimised so far as is reasonably practicable.  Further guidance on consultation is available in the Code of Practice: Work health and safety consultation, cooperation and coordination. "
+        },
+        {
+          "qas": [
+            {
+              "question": "What the PCBU provides to the worker should be suitable and adequate?",
+              "id": 17,
+              "answers": [
+                {
+                  "text": "information, training and instruction",
+                  "answer_start": 144
+                },
+                {
+                  "text": "information, training and instruction",
+                  "answer_start": 144
+                },
+                {
+                  "text": "information, training and instruction",
+                  "answer_start": 144
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should include in the information, training, and instruction for workers who carry out asbestos?",
+              "id": 18,
+              "answers": [
+                {
+                  "text": "the proper use, wearing, storage and maintenance of personal protective equipment (PPE)",
+                  "answer_start": 896
+                },
+                {
+                  "text": "the proper use, wearing, storage and maintenance of personal protective equipment (PPE)",
+                  "answer_start": 896
+                },
+                {
+                  "text": "the proper use, wearing, storage and maintenance of personal protective equipment (PPE)",
+                  "answer_start": 896
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should PCBU consider in the information, training, and instruction?",
+              "id": 19,
+              "answers": [
+                {
+                  "text": "the nature of the work carried out by the worker  the nature of the risks associated with the work at the time of the information, training and instruction, and   the control measures implemented",
+                  "answer_start": 248
+                },
+                {
+                  "text": "the nature of the work carried out by the worker  the nature of the risks associated with the work at the time of the information, training and instruction, and   the control measures implemented",
+                  "answer_start": 248
+                },
+                {
+                  "text": "the nature of the work carried out by the worker  the nature of the risks associated with the work at the time of the information, training and instruction, and   the control measures implemented",
+                  "answer_start": 248
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "carry out a particular task safely ",
+                  "answer_start": 694
+                }
+              ],
+              "question": "What is the appropriate skills workers must be trained in?",
+              "id": 20,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Information, training and instruction. WHS Regulation section 39. Provision of information, training and instruction. A PCBU must ensure that information, training and instruction provided to a worker are suitable and adequate having regard to:  the nature of the work carried out by the worker  the nature of the risks associated with the work at the time of the information, training and instruction, and   the control measures implemented.  The PCBU must also ensure, so far as is reasonably practicable, that the information, training and instruction are provided in a way that is readily understandable to whom it is provided.  Workers must be trained and have the appropriate skills to carry out a particular task safely. Training should be provided to workers by a competent person. Information, training and instruction provided to workers who carry out asbestos removal should include the proper use, wearing, storage and maintenance of personal protective equipment (PPE).   "
+        }
+      ]
+    }
+  ]
+}
