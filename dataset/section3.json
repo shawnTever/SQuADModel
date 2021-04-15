@@ -1,0 +1,996 @@
+{
+  "vision": 1.01,
+  "data": [
+    {
+      "title": "duty holders",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who has health and safety duties when removing asbestos?",
+              "id": 1,
+              "answers": [
+                {
+                  "text": "persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers",
+                  "answer_start": 147
+                },
+                {
+                  "text": "persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers",
+                  "answer_start": 147
+                },
+                {
+                  "text": "persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers",
+                  "answer_start": 147
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who also have duties under the WHS Act?",
+              "id": 2,
+              "answers": [
+                {
+                  "text": "Workers and other persons at the workplace",
+                  "answer_start": 313
+                },
+                {
+                  "text": "Workers and other persons",
+                  "answer_start": 313
+                },
+                {
+                  "text": "Workers and other persons at the workplace",
+                  "answer_start": 313
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can a person have more than one duty at the same time?",
+              "id": 3,
+              "answers": [
+                {
+                  "text": "A person can have more than one duty and more than one person can have the same duty at the same time.",
+                  "answer_start": 483
+                },
+                {
+                  "text": "A person can have more than one duty and more than one person can have the same duty at the same time.",
+                  "answer_start": 483
+                },
+                {
+                  "text": "A person can have more than one duty and more than one person can have the same duty at the same time.",
+                  "answer_start": 483
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "a number of",
+                  "answer_start": 10
+                }
+              ],
+              "question": "How many duty holders have a role in managing risks associated with removal of asbestos and ACM at the workplace",
+              "id": 4,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "There are a number of duty holders who have a role in managing risks associated with removal of asbestos and ACM at the workplace. These include:  persons conducting a business or undertaking (PCBU)  designers, manufacturers, importers, suppliers and installers of plant, substances or structures, and  officers. Workers and other persons at the workplace also have duties under the WHS Act, such as the duty to take reasonable care for their own health and safety at the workplace. A person can have more than one duty and more than one person can have the same duty at the same time. Early consultation and identification of risks can allow for more options to eliminate or minimise risks and reduce the associated costs. "
+        },
+        {
+          "qas": [
+            {
+              "question": "who have a duty to consult workers about work health and safety?",
+              "id": 5,
+              "answers": [
+                {
+                  "text": "PCBUs",
+                  "answer_start": 438
+                },
+                {
+                  "text": "PCBUs",
+                  "answer_start": 438
+                },
+                {
+                  "text": "PCBUs",
+                  "answer_start": 438
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the requirements for PCBUs in the WHS Regulations?",
+              "id": 6,
+              "answers": [
+                {
+                  "text": "manage the risks of hazardous chemicals, airborne contaminants and plant, as well as other hazards associated with asbestos",
+                  "answer_start": 312
+                },
+                {
+                  "text": "manage the risks of hazardous chemicals, airborne contaminants and plant",
+                  "answer_start": 312
+                },
+                {
+                  "text": "manage the risks of hazardous chemicals, airborne contaminants and plant, as well as other hazards associated with asbestos",
+                  "answer_start": 312
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What must PCBU ensure when exposed to airborne asbestos at the workplace?",
+              "id": 7,
+              "answers": [
+                {
+                  "text": "so far as is reasonably practicable that exposure of people at the workplace to airborne asbestos is eliminated",
+                  "answer_start": 689
+                },
+                {
+                  "text": "exposure of people at the workplace to airborne asbestos is eliminated",
+                  "answer_start": 730
+                },
+                {
+                  "text": "exposure standard for asbestos is not exceeded at the workplace",
+                  "answer_start": 939
+                },
+                {
+                  "text": "exposure standard for asbestos is not exceeded",
+                  "answer_start": 939
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "in the following chapters of this Code",
+                  "answer_start": 1187
+                }
+              ],
+              "question": "What are the specific obligations for a number of duty holders in relation to safely removing asbestos in the WHS Regulations?",
+              "id": 8,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Person conducting a business or undertaking. WHS Act section 19. Primary duty of care. A PCBU must eliminate risks arising from asbestos removal, or if that is not reasonably practicable, minimise the risks so far as is reasonably practicable. The WHS Regulations include more specific requirements for PCBUs to manage the risks of hazardous chemicals, airborne contaminants and plant, as well as other hazards associated with asbestos.  PCBUs have a duty to consult workers about work health and safety and may also have duties to consult, cooperate and coordinate with other duty holders. WHS Regulation section 420. Exposure to airborne asbestos at workplace. The PCBU must also ensure so far as is reasonably practicable that exposure of people at the workplace to airborne asbestos is eliminated. If this is not reasonably practicable, the exposure must be minimised so far as is reasonably practicable. The PCBU must also ensure the exposure standard for asbestos is not exceeded at the workplace. WHS Regulations Chapter 8. Asbestos. The WHS Regulations include specific obligations for a number of duty holders in relation to safely removing asbestos. These duties are described in the following chapters of this Code."
+        },
+        {
+          "qas": [
+            {
+              "question": "What is the duty of company directors?",
+              "id": 9,
+              "answers": [
+                {
+                  "text": "duty to exercise due diligence to ensure that the business or undertaking complies with the WHS Act and WHS Regulations",
+                  "answer_start": 96
+                },
+                {
+                  "text": "exercise due diligence to ensure that the business or undertaking complies with the WHS Act and WHS Regulations",
+                  "answer_start": 104
+                },
+                {
+                  "text": "ensure that the business or undertaking complies with the WHS Act and WHS Regulations",
+                  "answer_start": 130
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the duty of workers?",
+              "id": 10,
+              "answers": [
+                {
+                  "text": "take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons",
+                  "answer_start": 701
+                },
+                {
+                  "text": "take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons",
+                  "answer_start": 701
+                },
+                {
+                  "text": "take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons",
+                  "answer_start": 701
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can find further information about officers and their duties?",
+              "id": 11,
+              "answers": [
+                {
+                  "text": "Interpretive Guideline: The health and safety duty of an officer under section 27",
+                  "answer_start": 547
+                },
+                {
+                  "text": "Interpretive Guideline: The health and safety duty of an officer",
+                  "answer_start": 547
+                },
+                {
+                  "text": "Interpretive Guideline: The health and safety duty of an officer under section 27",
+                  "answer_start": 547
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "the business or undertaking has and uses appropriate resources and processes to eliminate or minimise risks",
+                  "answer_start": 142
+                }
+              ],
+              "question": "What are reasonable steps for officers?",
+              "id": 12,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Officers. WHS Act section 27. Duty of officers. Officers, for example company directors, have a duty to exercise due diligence to ensure that the business or undertaking complies with the WHS Act and WHS Regulations. This includes taking reasonable steps to ensure that the business or undertaking has and uses appropriate resources and processes to eliminate or minimise risks that arise from asbestos removal work carried out as part of the business or undertaking.  Further information on who is an officer and their duties is available in the Interpretive Guideline: The health and safety duty of an officer under section 27. Workers. WHS Act section 28. Duties of workers. Workers have a duty to take reasonable care for their own health and safety and to not adversely affect the health and safety of other persons. Workers must comply with reasonable instructions, as far as they are reasonably able, and cooperate with reasonable health and safety policies or procedures that have been notified to workers. "
+        },
+        {
+          "qas": [
+            {
+              "question": "What is the duty of visitors?",
+              "id": 13,
+              "answers": [
+                {
+                  "text": "take reasonable care for their own health safety",
+                  "answer_start": 146
+                },
+                {
+                  "text": "own health safety",
+                  "answer_start": 177
+                },
+                {
+                  "text": "take reasonable care for their own health safety",
+                  "answer_start": 146
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why PCBU has the duty to consult?",
+              "id": 14,
+              "answers": [
+                {
+                  "text": "based on the recognition that worker input and participation improves decision-making about health and safety matters and assists in reducing work-related injuries and disease",
+                  "answer_start": 640
+                },
+                {
+                  "text": "improves decision-making about health and safety matters and assists in reducing work-related injuries and disease",
+                  "answer_start": 701
+                },
+                {
+                  "text": "based on the recognition that worker input and participation improves decision-making about health and safety matters and assists in reducing work-related injuries and disease",
+                  "answer_start": 640
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What does WHS Act require PCBU do?",
+              "id": 15,
+              "answers": [
+                {
+                  "text": "consult, cooperate and coordinate activities with all other persons",
+                  "answer_start": 1481
+                },
+                {
+                  "text": "consult, cooperate and coordinate activities with all other persons who have a work health and safety duty in relation to the same matter",
+                  "answer_start": 1481
+                },
+                {
+                  "text": "consult, cooperate and coordinate activities",
+                  "answer_start": 1481
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "workers ",
+                  "answer_start": 474
+                }
+              ],
+              "question": "Who is directly affected by a health and safety matter?",
+              "id": 16,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Other persons at the workplace. WHS Act section 29. Duties of other persons at the workplace. Other persons at the workplace, like visitors, must take reasonable care for their own health safety. They must comply, so far as they are reasonably able, with reasonable instructions given by the PCBU to allow that person to comply with the WHS Act. Consulting workers. WHS Act section 47. Duty to consult workers. A PCBU must consult, so far as is reasonably practicable, with workers who carry out work for the business or undertaking and who are (or are likely to be) directly affected by a health and safety matter. This duty to consult is based on the recognition that worker input and participation improves decision-making about health and safety matters and assists in reducing work-related injuries and disease. The broad is reasonably practicable, with contractors and sub-contractors and their employees, on-hire workers, outworkers, apprentices, trainees, work experience students, volunteers and other people who are working for the PCBU and who are, or are likely to be, directly affected by a health and safety matter. Workers are entitled to take part in consultations and to be represented in consultations by a health and safety representative who has been elected to represent their work group. Consulting, cooperating and coordinating activities with other duty holders. WHS Act section 46. Duty to consult with other duty holders. The WHS Act requires that a PCBU consult, cooperate and coordinate activities with all other persons who have a work health and safety duty in relation to the same matter, so far as is reasonably practicable.  There is often more than one business or undertaking involved when asbestos-related work is being carried out, who may each have responsibility for the same health and safety matters, either because they are involved in the same activities or share the same workplace. In these situations, each duty holder should exchange information to find out who is doing what and work together in a cooperative and coordinated way so risks are eliminated or minimised so far as is reasonably practicable.  Further guidance on consultation is available in the Code of Practice: Work health and safety consultation, cooperation and coordination. "
+        },
+        {
+          "qas": [
+            {
+              "question": "What the PCBU provides to the worker should be suitable and adequate?",
+              "id": 17,
+              "answers": [
+                {
+                  "text": "information, training and instruction",
+                  "answer_start": 142
+                },
+                {
+                  "text": "information, training and instruction",
+                  "answer_start": 142
+                },
+                {
+                  "text": "information, training and instruction",
+                  "answer_start": 142
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should include in the information, training, and instruction for workers who carry out asbestos?",
+              "id": 18,
+              "answers": [
+                {
+                  "text": "the proper use, wearing, storage and maintenance of personal protective equipment (PPE)",
+                  "answer_start": 891
+                },
+                {
+                  "text": "the proper use, wearing, storage and maintenance of personal protective equipment (PPE)",
+                  "answer_start": 891
+                },
+                {
+                  "text": "the proper use, wearing, storage and maintenance of personal protective equipment (PPE)",
+                  "answer_start": 891
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should PCBU consider in the information, training, and instruction?",
+              "id": 19,
+              "answers": [
+                {
+                  "text": "the nature of the work carried out by the worker the nature of the risks associated with the work at the time of the information, training and instruction, and the control measures implemented",
+                  "answer_start": 246
+                },
+                {
+                  "text": "the nature of the work carried out by the worker the nature of the risks associated with the work at the time of the information, training and instruction, and the control measures implemented",
+                  "answer_start": 246
+                },
+                {
+                  "text": "the nature of the work carried out by the worker the nature of the risks associated with the work at the time of the information, training and instruction, and the control measures implemented",
+                  "answer_start": 246
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "carry out a particular task safely ",
+                  "answer_start": 689
+                }
+              ],
+              "question": "What is the appropriate skills workers must be trained in?",
+              "id": 20,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Information, training and instruction. WHS Regulation section 39. Provision of information, training and instruction. A PCBU must ensure that information, training and instruction provided to a worker are suitable and adequate having regard to:  the nature of the work carried out by the worker the nature of the risks associated with the work at the time of the information, training and instruction, and the control measures implemented.  The PCBU must also ensure, so far as is reasonably practicable, that the information, training and instruction are provided in a way that is readily understandable to whom it is provided.  Workers must be trained and have the appropriate skills to carry out a particular task safely. Training should be provided to workers by a competent person. Information, training and instruction provided to workers who carry out asbestos removal should include the proper use, wearing, storage and maintenance of personal protective equipment (PPE).    "
+        }
+      ]
+    },
+    {
+      "title": "Licence",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What can a class A licence remove for asbestos removal work?",
+              "id": 21,
+              "answers": [
+                {
+                  "text": "any amount or quantity of asbestos or ACM",
+                  "answer_start": 1039
+                },
+                {
+                  "text": "any amount or quantity of asbestos or ACM, including:  any amount of friable asbestos or ACM  any amount of ACD   any amount of non-friable asbestos or ACM",
+                  "answer_start": 1039
+                },
+                {
+                  "text": "any amount or quantity of asbestos or ACM",
+                  "answer_start": 1039
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What can a class B licence remove for asbestos removal work?",
+              "id": 22,
+              "answers": [
+                {
+                  "text": "any amount of non-friable asbestos or ACM   any amount of ACD associated with the removal of non-friable asbestos or ACM",
+                  "answer_start": 1039
+                },
+                {
+                  "text": "any amount of non-friable asbestos or ACM   any amount of ACD associated with the removal of non-friable asbestos or ACM",
+                  "answer_start": 1039
+                },
+                {
+                  "text": "any amount of non-friable asbestos or ACM   any amount of ACD associated with the removal of non-friable asbestos or ACM",
+                  "answer_start": 1039
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "The company must hold which kind of licence to remove friable asbestos?",
+              "id": 23,
+              "answers": [
+                {
+                  "text": "The company must hold a Class A asbestos removal licence",
+                  "answer_start": 1789
+                },
+                {
+                  "text": "Class A asbestos removal licence",
+                  "answer_start": 1813
+                },
+                {
+                  "text": "Class A asbestos removal licence",
+                  "answer_start": 1813
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the kind of asbestos for the asbestos-cement sheets?",
+              "id": 24,
+              "answers": [
+                {
+                  "text": "non-friable asbestos",
+                  "answer_start": 1499
+                },
+                {
+                  "text": "non-friable asbestos",
+                  "answer_start": 1499
+                },
+                {
+                  "text": "non-friable asbestos",
+                  "answer_start": 1499
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "unless an exemption exists in section 419(3), (4) or (5)",
+                  "answer_start": 1284
+                }
+              ],
+              "question": "What is the exemption for the asbestos removal work?",
+              "id": 25,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "1.2. Licence requirements for asbestos removal work. Licensed asbestos removalists. WHS Regulation section 458. Duty to ensure asbestos removalist is licensed. A PCBU who commissions the removal of asbestos at the workplace must ensure asbestos removal work is carried out only by a licensed asbestos removalist who is licensed to carry out the work. WHS Regulations Part 8.10 Division 1. Asbestos removalists requirements to be licensed. A PCBU will require a license to undertake asbestos removal. There are two types of licences: Class A and Class B. The type of licence required will depend on the type and quantity of asbestos, asbestos-containing material (ACM) or asbestos-containing dust (ACD) that is being removed at a workplace. Table 1 Licence requirements for asbestos removal work. Type of licence What asbestos can be removed? Class A Can remove any amount or quantity of asbestos or ACM, including:  any amount of friable asbestos or ACM  any amount of ACD   any amount of non-friable asbestos or ACM. Class B Can remove:  any amount of non-friable asbestos or ACM   any amount of ACD associated with the removal of non-friable asbestos or ACM. No licence required None. All asbestos removal work in the Territory must be carried out by a licensed asbestos removalist unless an exemption exists in section 419(3), (4) or (5). Examples of Class A or B licensed asbestos removal work. Asbestos-cement sheets are to be removed from a factory toilet block. The material to be removed is non-friable asbestos. As the material to be removed is non-friable the work can be done by a Class A or Class B licensed asbestos removalist.  A company is engaged to remove asbestos lagging from a pipe in order to carry out maintenance work. This involves the removal of friable asbestos. The company must hold a Class A asbestos removal licence to do this work. "
+        },
+        {
+          "qas": [
+            {
+              "question": "What can the person with an asbestos assessor licence do?",
+              "id": 26,
+              "answers": [
+                {
+                  "text": "(a) air monitoring during asbestos removal work; (b) clearance inspections for asbestos removal work; (c) issuing clearance certificates in relation to asbestos removal work; (d) identifying the location, type and condition of asbestos or ACM, including by taking samples; (e) assessing the risk resulting from the identified asbestos or ACM; (f) advising on how the asbestos or ACM should be managed; (g) reporting about the work mentioned in paragraphs (a) to (e).",
+                  "answer_start": 339
+                },
+                {
+                  "text": "(a) air monitoring during asbestos removal work; (b) clearance inspections for asbestos removal work; (c) issuing clearance certificates in relation to asbestos removal work; (d) identifying the location, type and condition of asbestos or ACM, including by taking samples; (e) assessing the risk resulting from the identified asbestos or ACM; (f) advising on how the asbestos or ACM should be managed; (g) reporting about the work mentioned in paragraphs (a) to (e).",
+                  "answer_start": 339
+                },
+                {
+                  "text": "(a) air monitoring during asbestos removal work; (b) clearance inspections for asbestos removal work; (c) issuing clearance certificates in relation to asbestos removal work; (d) identifying the location, type and condition of asbestos or ACM, including by taking samples; (e) assessing the risk resulting from the identified asbestos or ACM; (f) advising on how the asbestos or ACM should be managed; (g) reporting about the work mentioned in paragraphs (a) to (e).",
+                  "answer_start": 339
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What else can the person with an asbestos assessor licence also do?",
+              "id": 27,
+              "answers": [
+                {
+                  "text": "can also carry out a number of other tasks including identifying asbestos, carrying out a risk assessment or reviewing an asbestos register, provided they meet the requirements to undertake those tasks (e.g. they must be a licensed asbestos assessor)",
+                  "answer_start": 835
+                },
+                {
+                  "text": "carry out a number of other tasks including identifying asbestos, carrying out a risk assessment or reviewing an asbestos register, provided they meet the requirements to undertake those tasks (e.g. they must be a licensed asbestos assessor)",
+                  "answer_start": 844
+                },
+                {
+                  "text": "carry out a number of other tasks including identifying asbestos, carrying out a risk assessment or reviewing an asbestos register, provided they meet the requirements to undertake those tasks",
+                  "answer_start": 844
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "in the Code of Practice",
+                  "answer_start": 1132
+                }
+              ],
+              "question": "How to manage and control asbestos in the workplace?",
+              "id": 28,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Licensed asbestos assessors. WHS Regulation section 489. Requirement to hold asbestos assessor licence. A PCBU who commissions Class A asbestos removal work must ensure that certain work is carried out by an independent licensed asbestos assessor who is licensed to carry out the work.  A person must hold an asbestos assessor licence to: (a) air monitoring during asbestos removal work; (b) clearance inspections for asbestos removal work; (c) issuing clearance certificates in relation to asbestos removal work; (d) identifying the location, type and condition of asbestos or ACM, including by taking samples; (e) assessing the risk resulting from the identified asbestos or ACM; (f) advising on how the asbestos or ACM should be managed; (g) reporting about the work mentioned in paragraphs (a) to (e).  Licensed asbestos assessors can also carry out a number of other tasks including identifying asbestos, carrying out a risk assessment or reviewing an asbestos register, provided they meet the requirements to undertake those tasks (e.g. they must be a licensed asbestos assessor). More information on these tasks can be found in the Code of Practice: How to manage and control asbestos in the workplace."
+        }
+      ]
+    },
+    {
+      "title": "Health monitoring duties",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When the PCBU must ensure health monitoring is provided to a worker?",
+              "id": 29,
+              "answers": [
+                {
+                  "text": "if they are at risk of exposure to asbestos when carrying out:  licensed asbestos removal work, or asbestos-related work",
+                  "answer_start": 179
+                },
+                {
+                  "text": "licensed asbestos removal work, or asbestos-related work",
+                  "answer_start": 243
+                },
+                {
+                  "text": "if they are at risk of exposure to asbestos when carrying out:  licensed asbestos removal work, or asbestos-related work",
+                  "answer_start": 179
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should the PCBU do before workers carry out work that may expose them to asbestos?",
+              "id": 30,
+              "answers": [
+                {
+                  "text": "inform workers of any health monitoring requirements",
+                  "answer_start": 1171
+                },
+                {
+                  "text": "inform workers of any health monitoring requirements",
+                  "answer_start": 1171
+                },
+                {
+                  "text": "inform workers of any health monitoring requirements",
+                  "answer_start": 1171
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What does the Health monitoring include?",
+              "id": 31,
+              "answers": [
+                {
+                  "text": "consideration of records of the worker’s demographic, medical and occupational history, consideration of records of the worker’s personal exposure, and a physical examination of the worker with emphasis on the respiratory system, including standardised respiratory function tests, unless another form of health monitoring is recommended by a registered medical practitioner",
+                  "answer_start": 784
+                },
+                {
+                  "text": "consideration of records of the worker’s demographic, medical and occupational history, consideration of records of the worker’s personal exposure, and a physical examination of the worker with emphasis on the respiratory system",
+                  "answer_start": 784
+                },
+                {
+                  "text": "consideration of records of the worker’s demographic, medical and occupational history, consideration of records of the worker’s personal exposure, and a physical examination of the worker with emphasis on the respiratory system, including standardised respiratory function tests, unless another form of health monitoring is recommended by a registered medical practitioner",
+                  "answer_start": 784
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "1.3. Health monitoring duties. WHS Regulations Part 8.5 Division 8.5.1. Asbestos at the Workplace: Health monitoring. A PCBU must ensure health monitoring is provided to a worker if they are at risk of exposure to asbestos when carrying out:  licensed asbestos removal work, or asbestos-related work. Examples of ongoing (unlicensed) asbestos removal work or asbestos-related work can include undertaking maintenance work on ACM regularly as part of another job (for instance electricians or building maintenance staff in older buildings). Health monitoring includes a medical examination to provide an initial baseline medical assessment. Health monitoring must include the following, unless another form of health monitoring is recommended by a registered medical practitioner):    consideration of records of the worker’s demographic, medical and occupational history, consideration of records of the worker’s personal exposure, and a physical examination of the worker with emphasis on the respiratory system, including standardised respiratory function tests, unless another form of health monitoring is recommended by a registered medical practitioner. A PCBU must inform workers of any health monitoring requirements before they carry out work that may expose them to asbestos. "
+        },
+        {
+          "qas": [
+            {
+              "question": "How regular Health monitoring should be provided to the worker after the worker commences asbestos-related work where there is a risk of exposure to asbestos?",
+              "id": 32,
+              "answers": [
+                {
+                  "text": "at regular intervals (at least once every two years)",
+                  "answer_start": 459
+                },
+                {
+                  "text": "at least once every two years",
+                  "answer_start": 481
+                },
+                {
+                  "text": "at least once every two years",
+                  "answer_start": 481
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who pays for health monitoring? ",
+              "id": 33,
+              "answers": [
+                {
+                  "text": "The PCBU must pay all expenses relating to health monitoring",
+                  "answer_start": 935
+                },
+                {
+                  "text": "The PCBU must pay all expenses relating to health monitoring",
+                  "answer_start": 935
+                },
+                {
+                  "text": "The PCBU must pay all expenses relating to health monitoring",
+                  "answer_start": 935
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What information must be provided to the registered medical practitioner? ",
+              "id": 34,
+              "answers": [
+                {
+                  "text": "their name and address the name and date of birth of the worker a description of the work the worker is, or will be, carrying out that has triggered the requirement for health monitoring, and whether the worker has started the work or, if the worker has commenced, carrying out the work, how long this has been for",
+                  "answer_start": 1463
+                },
+                {
+                  "text": "their name and address the name and date of birth of the worker a description of the work the worker is, or will be, carrying out that has triggered the requirement for health monitoring, and whether the worker has started the work or, if the worker has commenced, carrying out the work, how long this has been for",
+                  "answer_start": 1463
+                },
+                {
+                  "text": "their name and address the name and date of birth of the worker a description of the work the worker is, or will be, carrying out that has triggered the requirement for health monitoring, and whether the worker has started the work or, if the worker has commenced, carrying out the work, how long this has been for",
+                  "answer_start": 1463
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "the PCBU must consult the worker",
+                  "answer_start": 869
+                }
+              ],
+              "question": "Who is the registered medical practitioner?",
+              "id": 35,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "When should health monitoring occur? The need for health monitoring for workers at risk of exposure to asbestos should be determined on the basis of:  the potential for exposure the frequency of potential exposure, and the duration of the work being undertaken. If a worker is carrying out licensed asbestos removal work, the health monitoring must be conducted prior to the worker commencing the work. Health monitoring should also be provided to the worker at regular intervals (at least once every two years) after the worker commences asbestos-related work where there is a risk of exposure to asbestos. Who can carry out health monitoring? The PCBU must ensure health monitoring is carried out by or under the supervision of a registered medical practitioner with experience in health monitoring. Prior to deciding who the registered medical practitioner will be, the PCBU must consult the worker. Who pays for health monitoring? The PCBU must pay all expenses relating to health monitoring. If two or more PCBUs have a duty to provide health monitoring to a worker, they may choose one PCBU to organise health monitoring (known as the PCBU who commissions the health monitoring). The costs must be shared equally between each PCBU unless they agree otherwise. What information must be provided to the registered medical practitioner? The PCBU who commissions health monitoring must provide the following information to the registered medical practitioner:  their name and address the name and date of birth of the worker a description of the work the worker is, or will be, carrying out that has triggered the requirement for health monitoring, and whether the worker has started the work or, if the worker has commenced, carrying out the work, how long this has been for. "
+        },
+        {
+          "qas": [
+            {
+              "question": "Who needs to obtain a report from the registered medical practitioner as soon as practicable after the monitoring is carried out?",
+              "id": 36,
+              "answers": [
+                {
+                  "text": "The PCBU who commissions health monitoring",
+                  "answer_start": 26
+                },
+                {
+                  "text": "The PCBU",
+                  "answer_start": 26
+                },
+                {
+                  "text": "The PCBU who commissions health monitoring",
+                  "answer_start": 26
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long health monitoring reports should be kept as confidential records for the PCBU?",
+              "id": 37,
+              "answers": [
+                {
+                  "text": "at least 40 years after the record is made and identified as a formal record for the particular worker",
+                  "answer_start": 1587
+                },
+                {
+                  "text": "at least 40 years",
+                  "answer_start": 1587
+                },
+                {
+                  "text": "at least 40 years",
+                  "answer_start": 1587
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "In which situation the report and results can be disclosed to someone?",
+              "id": 38,
+              "answers": [
+                {
+                  "text": "the worker has provided their written consent",
+                  "answer_start": 1753
+                },
+                {
+                  "text": "the worker has provided their written consent",
+                  "answer_start": 1753
+                },
+                {
+                  "text": "their written consent",
+                  "answer_start": 1777
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "Further information is available Health Monitoring for Exposure to Hazardous Chemicals  Guide for persons conducting a business or undertaking",
+                  "answer_start": 1929
+                }
+              ],
+              "question": "What should persons conducting a business or undertaking do?",
+              "id": 39,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Health monitoring report. The PCBU who commissions health monitoring must take all reasonable steps to obtain a report from the registered medical practitioner as soon as practicable after the monitoring is carried out. The health monitoring report must include the following information:  the name and date of birth of the worker the name and registration number of the registered medical practitioner the name and address of the PCBU who commissioned the health monitoring the date of the health monitoring any advice that test results indicate the worker may have contracted a disease, injury or illness as a result of carrying out the work that triggered the need for health monitoring any recommended remedial measures, including whether the worker can continue to carry out the work, and whether medical counselling is required for the worker in relation to the work that triggered the requirement for health monitoring. The PCBU who commissioned health monitoring must also give a copy of the report, as soon as reasonably practicable after obtaining it from the medical practitioner, to:  the worker the regulator, if the report contains:  any advice that test results indicate that the worker may have contracted a disease, injury or illness as a result of the work that triggered the need for health monitoring, and any recommended remedial measures, including whether the worker can continue to carry out the work all other PCBUs who have a duty to provide health monitoring for that worker.  A PCBU must ensure health monitoring reports are kept as a confidential record for at least 40 years after the record is made and identified as a formal record for the particular worker. The report and results must not be disclosed to anyone unless the worker has provided their written consent. However, record to a person who must keep the record confidential under a duty of professional confidentiality without consent.  Further information is available Health Monitoring for Exposure to Hazardous Chemicals  Guide for persons conducting a business or undertaking.  "
+        }
+      ]
+    },
+    {
+      "title": "Duties for removal work that does not require a licence",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What can do as a person conducting a business or undertaking (PCBU) without Class A or Class B asbestos removal licence?",
+              "id": 40,
+              "answers": [
+                {
+                  "text": "may only carry out work involving asbestos if it is in the course of minor or routine maintenance work, or other minor work",
+                  "answer_start": 410
+                },
+                {
+                  "text": "may only carry out work involving asbestos if it is in the course of minor or routine maintenance work, or other minor work",
+                  "answer_start": 410
+                },
+                {
+                  "text": "may only carry out work involving asbestos if it is in the course of minor or routine maintenance work, or other minor work",
+                  "answer_start": 410
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "As a plumber, which kind of asbestos can be disturbed during renovations, refurbishments, or service and maintenance work?",
+              "id": 41,
+              "answers": [
+                {
+                  "text": "small amounts of non-friable asbestos",
+                  "answer_start": 1243
+                },
+                {
+                  "text": "non-friable asbestos",
+                  "answer_start": 1260
+                },
+                {
+                  "text": "small amounts of non-friable asbestos",
+                  "answer_start": 1243
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can I know the duty to identify hazards at the workplace?",
+              "id": 42,
+              "answers": [
+                {
+                  "text": "refer to section 4.1",
+                  "answer_start": 1906
+                },
+                {
+                  "text": "section 4.1",
+                  "answer_start": 1915
+                },
+                {
+                  "text": "section 4.1",
+                  "answer_start": 1915
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can I find further information on an asbestos removal control plan?",
+              "id": 43,
+              "answers": [
+                {
+                  "text": "Refer to section 3.5",
+                  "answer_start": 2891
+                },
+                {
+                  "text": "section 3.5",
+                  "answer_start": 2900
+                },
+                {
+                  "text": "section 3.5",
+                  "answer_start": 2900
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "an independent licensed asbestos assessor can carry it out in these situations",
+                  "answer_start": 3028
+                }
+              ],
+              "question": "When need to conduct air monitoring?",
+              "id": 44,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "if you are a plumber, this allows you to disturb small amounts of non-friable asbestos if you come across it during renovations, refurbishments, or service and maintenance work",
+                  "answer_start": 1194
+                }
+              ],
+              "question": "When can a plumber disturb friable asbestos?",
+              "id": 45,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "2. Duties for removal work that does not require a licence. WHS Regulation section 458. Duty to ensure asbestos removalist is licensed. WHS Regulation section 445. Duty to train workers about asbestos. WHS Regulation section 445A. Duty to train workers about working with asbestos. If, as a person conducting a business or undertaking (PCBU), you do not hold a Class A or Class B asbestos removal licence, you may only carry out work involving asbestos if it is in the course of minor or routine maintenance work, or other minor work. Work involves asbestos if the work involves manufacturing, supplying, transporting, storing, removing, using, installing, handling, treating, disposing of or disturbing asbestos or ACM (WHS Regulations section 419). You must not remove, or direct or allow a worker to remove, friable asbestos materials if you do not have a Class A asbestos licence.  You must ensure workers carrying out work involving asbestos, including a self-employed person conducting a business or undertaking, are trained in the VET course Asbestos Awareness. Workers in certain prescribed occupations must also have completed the VET course Working safely with asbestos. For example, if you are a plumber, this allows you to disturb small amounts of non-friable asbestos if you come across it during renovations, refurbishments, or service and maintenance work. However, you must still use safe working methods to ensure the work is not creating a risk to the health and safety of people at the workplace.  If you disturb asbestos in the course of your work you must comply with the duties outlined in Chapter 4 of this Code and also with some of the duties in Chapter 3 of this Code. These duties are summarised below:  obtain a copy of the asbestos register for a workplace unless the work is being carried out at residential premises (refer to section 3.4)  identify hazards at the workplace (refer to section 4.1)  ensure signs and barricades are erected to indicate and delineate the asbestos work area (refer to sections 3.7 and 4.2)  use the wet method to remove asbestos where reasonably practicable (refer to section 4.3)  ensure the correct tools, equipment (and PPE are used (refer to )  ensure decontamination facilities are available (refer to sections 3.8 and 4.6)  contain and label asbestos waste and dispose of it as soon as reasonably practicable at a site licensed to accept asbestos waste (refer to sections 3.9 and 4.8), and ensure that PPE and clothing used in asbestos removal work and contaminated with asbestos is handled in accordance with the WHS Regulations (refer to sections 3.9, 4.5 and 4.6).  Although it is not mandatory for you to prepare an asbestos removal control plan if you disturb asbestos in the course of minor or routine maintenance work, or other minor work, it may be beneficial to do so to ensure the work is being carried out safely. Refer to section 3.5 for further information on an asbestos removal control plan. It is also not mandatory to conduct air monitoring but an independent licensed asbestos assessor can carry it out in these situations. Refer to section 3.11 for further information on air monitoring."
+        },
+        {
+          "qas": [
+            {
+              "question": "Who needs to ensure workers in certain prescribed occupations are trained in the VET course Working Safely with Asbestos?",
+              "id": 46,
+              "answers": [
+                {
+                  "text": "a PCBU",
+                  "answer_start": 405
+                },
+                {
+                  "text": "PCBU",
+                  "answer_start": 407
+                },
+                {
+                  "text": "a PCBU",
+                  "answer_start": 405
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long the records of all training need to keep?",
+              "id": 47,
+              "answers": [
+                {
+                  "text": "five years",
+                  "answer_start": 1753
+                },
+                {
+                  "text": "for five years",
+                  "answer_start": 1749
+                },
+                {
+                  "text": "five years",
+                  "answer_start": 1753
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why need to keep records of all training?",
+              "id": 48,
+              "answers": [
+                {
+                  "text": "for inspection",
+                  "answer_start": 1849
+                },
+                {
+                  "text": "for inspection by the regulator",
+                  "answer_start": 1849
+                },
+                {
+                  "text": "for inspection by the regulator",
+                  "answer_start": 1849
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "Asbestos Awareness",
+                  "answer_start": 373
+                }
+              ],
+              "question": "What is the VET course?",
+              "id": 49,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "2.1. Training workers about asbestos or ACM. WHS Regulation 445. Duty to train workers about asbestos. WHS Regulation section 445A. Duty to train workers about working with asbestos. As a PCBU you must ensure workers you reasonably believe may be involved in asbestos removal work in the workplace or the carrying out of asbestos-related work are trained in the VET course Asbestos Awareness. In the ACT, a PCBU must also ensure workers in certain prescribed occupations are trained in the VET course Working Safely with Asbestos. In addition, site or job-specific training is required. It should include:  purpose of the training health risks of asbestos types, uses and likely presence of asbestos in the workplace you and your workers where the asbestos register is located, how it can be accessed and how to understand the information contained in it processes and safe work procedures to be followed to prevent exposure, including exposure from any accidental release of airborne asbestos where applicable, the correct use of PPE including respiratory protective equipment (RPE)  the implementation of control measures and safe work methods to eliminate or minimise the risks associated with asbestos to limit the exposure to workers and other persons exposure standard and control levels for asbestos, and purpose of any exposure monitoring or health monitoring that may occur. This training is more general than the training that a worker undertaking licensed asbestos removal work would receive. Workers who are undertaking licensed asbestos removal work are required to complete specific units of competency.  Refer to section 3.2 for further information. You must keep records of all training while the worker is carrying out the work and for five years after the day the worker stops working for you. These records must also be available for inspection by the regulator. "
+        }
+      ]
+    },
+    {
+      "title": "Duties for licensed asbestos removal work",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "In which aspects, licensed asbestos removal work can differ greatly?",
+              "id": 50,
+              "answers": [
+                {
+                  "text": "type, quantity and condition of the asbestos or ACM being removed",
+                  "answer_start": 249
+                },
+                {
+                  "text": "the type, quantity and condition of the asbestos or ACM being removed",
+                  "answer_start": 245
+                },
+                {
+                  "text": "type, quantity and condition of the asbestos or ACM being removed",
+                  "answer_start": 249
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Why there are a number of duties in the WHS Regulations?",
+              "id": 51,
+              "answers": [
+                {
+                  "text": "ensure licensed asbestos work is carried out safely and without releasing airborne asbestos and exposing workers and other people",
+                  "answer_start": 371
+                },
+                {
+                  "text": "ensure licensed asbestos work is carried out safely and without releasing airborne asbestos and exposing workers and other people",
+                  "answer_start": 371
+                },
+                {
+                  "text": "ensure licensed asbestos work is carried out safely and without releasing airborne asbestos and exposing workers and other people",
+                  "answer_start": 371
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "plausible_answers": [
+                {
+                  "text": "Licensed asbestos removalists might also have these duties if asbestos removal work is carried out in residential premises.",
+                  "answer_start": 1790
+                }
+              ],
+              "question": "What are the duties of licensed asbestos removalists?",
+              "id": 52,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "3. Duties for licensed asbestos removal work. WHS Regulations Part 8.7. Asbestos Removal Work. WHS Regulations Part 8.8. Asbestos Removal Requiring Class A Asbestos Removal Licence. Licensed asbestos removal work can differ greatly depending on the type, quantity and condition of the asbestos or ACM being removed. There are a number of duties in the WHS Regulations to ensure licensed asbestos work is carried out safely and without releasing airborne asbestos and exposing workers and other people.  Specific duties in the WHS Regulations for licensed asbestos removalists include:  ensuring an asbestos removalist supervisor is readily available or present when the work is being carried out providing appropriate training and ensuring the asbestos removal worker has undertaken the relevant units of competency associated with the asbestos removal telling various parties about the asbestos removal and providing them with appropriate information preparing an asbestos removal control plan notifying the regulator about the work before it starts displaying signs and installing barricades in the asbestos work area limiting access to the asbestos work area ensuring appropriate decontamination facilities are in place, and ensuring waste containment and disposal procedures are in place. Additional duties apply to a number of other duty holders including the person conducting a business or undertaking (PCBU) who commissioned the asbestos removal work, and the person with management and control of the workplace. These duties include:  informing various persons about the asbestos removal and providing them with appropriate information ensuring clearance inspections are conducted and clearance certificates are issued, and ensuring air monitoring is conducted, where appropriate. Licensed asbestos removalists might also have these duties if asbestos removal work is carried out in residential premises. These duties are explained further below."
+        }
+      ]
+    }
+  ]
+}
